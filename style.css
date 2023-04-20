@@ -116,6 +116,9 @@ h1{
     display: none;
     transition: 2s ease-in-out;
 }
+.sound{
+    visibility: hidden;
+}
 
 
 @media screen and (max-width: 600px) {
