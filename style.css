@@ -92,10 +92,12 @@ h1{
 }
 .image_three{
     width: 100%;
+
     
 }
 .image_three img{
     width: 100%;
+    object-fit: cover;
 
 }
 
