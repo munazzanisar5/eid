@@ -149,12 +149,23 @@ h1{
         width: 12rem;
        
     }
-    .star_1  {
-
-        inset: -1rem 19rem 0;
+    .star_2{
+        inset: 24rem 16rem 0;
+    }
+    .star_3 {
+        inset: 3rem 10rem 0rem !important;
+    }
+    .star_1 {
+        inset: 0rem 14rem 0 !important;
     }
     .star_4{
-        inset: -2rem 17rem 0;
+        inset: 17rem 2rem 0 !important;
+    }
+    .star_6{
+        inset: 0rem 0rem 0rem !important;
+    }
+    .star_5 {
+        inset: 15rem 17rem 0 !important;
     }
 }
 
@@ -174,4 +185,5 @@ h1{
     .star_3{
         inset: 16rem 34rem 0rem
     }
+   
 }
