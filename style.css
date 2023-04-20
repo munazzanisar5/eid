@@ -32,6 +32,9 @@ img {
     animation: blinker 5s linear infinite;
     
 }
+.str img{
+    background: transparent;
+}
 .image_one .Eid{
     animation: blin 0s linear infinite;
 }
