@@ -91,7 +91,7 @@ h1{
     /* padding: 6rem 0; */
 }
 .moon{
-    /* transform: rotate(-20deg); */
+    transform: rotate(-20deg);
 }
 .Eid{
     position: relative;
@@ -100,7 +100,7 @@ h1{
 .eid_img img{
   width: 20rem;
   object-fit: contain;
-  
+  background: transparent;
   animation: zoom-in-zoom-out 4s ease-in-out infinite;
  
 }
