@@ -1,5 +1,8 @@
 // window.scrollTo(xCoord, yCoord);
+let sound=document.getElementsByTagName("audio");
+sound.autoplay;
 document.body.onload= ()=>{
+
 
 
 

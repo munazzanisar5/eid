@@ -7,6 +7,11 @@
     /* background: #5b64ad; */
     background: #031d2afa;
     scroll-behavior: smooth;
+
+   
+    
+    
+    /* font-family: 'Montserrat', sans-serif; */
 }
 img {
     width: 100%;
@@ -58,11 +63,16 @@ img {
     text-align: center;
 }
 .my_name p{
-    font-size: 1rem;
-    
+    font-size: 1.5rem;
+    padding-right: 4rem;
+    font-weight: 700;
+    font-family: 'Arizonia', cursive;
+    font-family: 'League Script', cursive;
 }
 h1{
-    font-size: 2rem;
+    font-size: 3rem;
+    font-family: 'Arizonia', cursive;
+    font-family: 'League Script', cursive;
 }
   .top_img {
     animation: blinker 1s linear infinite;
