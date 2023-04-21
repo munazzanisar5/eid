@@ -13,6 +13,31 @@
     
     /* font-family: 'Montserrat', sans-serif; */
 }
+
+
+::-webkit-scrollbar {
+    width: 0.5rem;
+  }
+/* Track */
+::-webkit-scrollbar-track {
+    background: #031d2afa; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #2B83AD; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background:   #ffffff;
+  }
+::selection {
+    color: gold;
+    background: teal;
+  }
+
+  
 img {
     width: 100%;
 }

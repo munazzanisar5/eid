@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'AA Sameer Bassam';
+    src: url('AASameerBassamBold.woff2') format('woff2'),
+        url('AASameerBassamBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
